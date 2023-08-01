@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please selectSingleMarriedSeparatedD_f061ed</name>
+   <tag></tag>
+   <elementGuidId>755a1980-fb78-4cf7-8e0d-f60fbe58ef93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id = 'client1maritalstatus' and (text() = 'Please selectSingleMarriedSeparatedDivorcedWidowedCivil partnershipCohabiting' or . = 'Please selectSingleMarriedSeparatedDivorcedWidowedCivil partnershipCohabiting')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#client1maritalstatus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>431dbf24-0606-4cd2-a4af-79f0d834e69e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>maritalStatus</value>
+      <webElementGuid>9e72463c-2eeb-4e7b-a0b0-d4799cc817b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>client1maritalstatus</value>
+      <webElementGuid>d85e0fed-df43-4590-abac-b6ee727f6e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>077f21db-ba30-41cd-a636-4572c828a9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>71137b7c-8a4e-4ebb-9034-bef5957d1f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please selectSingleMarriedSeparatedDivorcedWidowedCivil partnershipCohabiting</value>
+      <webElementGuid>2338798c-407b-4335-9278-390e34eb8063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client1maritalstatus&quot;)</value>
+      <webElementGuid>a2db31d5-f402-487c-98f8-9c081dee252c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'client1maritalstatus' and (text() = 'Please selectSingleMarriedSeparatedDivorcedWidowedCivil partnershipCohabiting' or . = 'Please selectSingleMarriedSeparatedDivorcedWidowedCivil partnershipCohabiting')]</value>
+      <webElementGuid>adc801e2-480a-4060-8f27-302be96413de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='client1maritalstatus']</value>
+      <webElementGuid>a23419d6-3465-4f08-9d8e-75b55c5b2242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital status'])[1]/following::select[1]</value>
+      <webElementGuid>e4e2aef1-6af2-4f85-b327-f59cd329923a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/following::select[1]</value>
+      <webElementGuid>72f1ecd9-bdd5-4c97-be6e-eb16a3087825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent residential address'])[1]/preceding::select[1]</value>
+      <webElementGuid>c69ac70e-a3b7-4870-87e2-208602a28deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential address'])[1]/preceding::select[1]</value>
+      <webElementGuid>9678e948-d3b9-447a-9a4d-19cff920b723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/select</value>
+      <webElementGuid>66c02241-d422-4e27-aa58-6216e0804e79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

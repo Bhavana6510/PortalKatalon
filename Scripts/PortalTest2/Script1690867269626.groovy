@@ -49,6 +49,8 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/PortalRepo/Page_Dash
 
 WebUI.click(findTestObject('Object Repository/PortalRepo/Page_Dashboard/button_Create new'))
 
+WebUI.click(findTestObject('Object Repository/Page_Dashboard/span_Summary'))
+
 WebUI.takeFullPageScreenshotAsCheckpoint("SummaryTab")
 
 WebUI.closeBrowser()
